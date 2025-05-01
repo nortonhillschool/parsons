@@ -7,8 +7,6 @@ title: Arrays lesson task one question one
 ---
 Not all blocks of code are used!
 
-Click <b>Get Feedback</b> when you want to test your answer.
-
 <div id="sortableTrash" class="sortable-code"></div> 
 <div id="sortable" class="sortable-code"></div> 
 <div style="clear:both;"></div> 
