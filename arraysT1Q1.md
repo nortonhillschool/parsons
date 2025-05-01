@@ -23,6 +23,8 @@ Not all blocks of code are used!
     "	print(month[i] + &quot;: &quot; + temperature[i])\n" +
     "next i\n" +
     "i = i + 1 #distractor\n" +
+    "i = i + 1 #distractor\n" +
+    "for month in months #distractor\n" +
     "for month in months #distractor\n" +
     "print(temperature[i] + &quot;: &quot; + month[i]) #distractor\n" +
     "temperature = input(&quot;Enter average temperature: &quot;) #distractor";
