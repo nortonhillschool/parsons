@@ -1,3 +1,14 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default
+title: EcoGames chatbot
+---
+Re-arrange the blocks to build your chatbot. Think carefully about what order the blocks should be executed in.
+
+Click <b>Get Feedback</b> when you want to test your answer.
+
 <div id="sortableTrash" class="sortable-code"></div> 
 <div id="sortable" class="sortable-code"></div> 
 <div style="clear:both;"></div> 
@@ -23,8 +34,7 @@
     "can_indent": true,
     "x_indent": 50,
     "lang": "en",
-    "show_feedback": true,
-    "trashId": "sortableTrash"
+    "show_feedback": true
   });
   parsonsPuzzle.init(initial);
   parsonsPuzzle.shuffleLines();
